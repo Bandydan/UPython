@@ -369,6 +369,8 @@ say Sparta!!
 
 [List comprehensions за 5 хвилин](https://medium.com/nuances-of-programming/list-comprehensions-%D0%B2-python-%D0%B7%D0%B0-5-%D0%BC%D0%B8%D0%BD%D1%83%D1%82-4e5ff3cafd62)
 
+[документацыя по модулю array (англійською))](https://docs.python.org/3/library/array.html#module-array)
+
 [Зрізи](https://habr.com/ru/post/319200/)
 
 [Домашка](hw04.md)
