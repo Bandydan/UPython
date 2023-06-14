@@ -9,10 +9,15 @@
 ![Guido van Rossum](images/gvido.png)
 
 Як використовувати мову?
+
 ![](images/usedfor.png)
+
 А ще як?
+
 ![](images/usedfor2.gif)
+
 Хто використовує мову?
+
 ![](images/whouses.jpg)
 
 Все у програмуванні структуровано, підкоряється логіці, **алгоритмізовано**.
