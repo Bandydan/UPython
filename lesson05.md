@@ -300,4 +300,9 @@ filter(lambda x: x % 2, range(10))
 
 [**Lambda article**](https://realpython.com/python-lambda/)
 
-[Домашка](hw05.md)
+## Домашнє завдання №5
+
+1. Завершуємо практики з заняття.
+2. Знайомимось з лямбдами, функціями вищого порядку та функціями взагалі й далі, використовуємо нові знання для розвʼязання нових задач з Codewars [посилання на пошук](https://www.codewars.com/kata/search/python?q=&tags=Functional%20Programming&beta=false&order_by=rank_id%20asc).
+4. Знайомимось з `zip` функцією, пробуємо написати свій власний `zip`.
+
