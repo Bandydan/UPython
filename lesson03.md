@@ -196,6 +196,7 @@ f3.close()
 ### write, writelines
 
 Метод **`write`** пише до файлу переданий йому рядок.
+
 Метод **`writelines`** пише до файлу переданий йому список рядків.
 
 ```python
@@ -235,8 +236,8 @@ f.close()
 
 ```python
 with open('f1.txt', 'r') as f:
-	for line in f:
-		print(line)
+    for line in f:
+        print(line)
 ```
 
 # Рядки, повторення та зрізи. Списки.
