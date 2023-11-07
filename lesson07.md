@@ -1,8 +1,3 @@
-sdjkahbaslkdjchbasldjkcb
-sakdjcalskjcbjklasdc
-sakl;jdcnalksjdcn
-
-
 # Знайомство з Git
 
 ## Передмова, історія проблеми
